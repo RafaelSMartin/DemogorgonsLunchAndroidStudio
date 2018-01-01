@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 android {
-    compileSdkVersion 'Google Inc.:Google APIs:24'
+    compileSdkVersion 26
     buildToolsVersion "26.0.1"
 
     defaultConfig {
         applicationId "com.rafaels.demogorgonslunch"
         minSdkVersion 14
-        targetSdkVersion 21
+        targetSdkVersion 26
     }
 
     buildTypes {

@@ -126,7 +126,7 @@ public class Assets {
 		confB10 = loadBitmap("confB10.png", true);	*/	
 		
 		scoreDown = loadBitmap("score_button_down.png", true);
-		score = loadBitmap("score_button.png", true);
+		score = loadBitmap("score_button1.png", true);
 		startDown = loadBitmap("start_button_down.png", true);
 		start = loadBitmap("start_button.png", true);
 		instructions= loadBitmap("instructions_button.png", true);
